@@ -10,10 +10,10 @@
 
 |    | <div align="center">Name</div>   | <div align="center">Title</div>  | <div align="center">Socials</div>     |
 | :-----------: | :---------- | :---------- | :----------: |
-|   ![NisaNurPhoto](https://github.com/user-attachments/assets/7a5032ed-f463-4c71-8620-54efb6c19726)   | Nisa Nur     | Product Owner     | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/nisa-nur-karaca-8367562a1/)   | 
-|   ![ŞeymaPhoto](https://github.com/user-attachments/assets/42581366-eb8c-478e-946b-6a3127baca53)   | Şeyma KARATAŞ     | Scrum Master     |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/%C5%9Feyma-karata%C5%9F-7a2885296/) |
-|   ![AnılHanPhoto](https://github.com/user-attachments/assets/32baec11-3eea-454a-87fc-70fb4add10db)   | Anıl Han      | Developer      |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/an%C4%B1l-han-ayd%C4%B1n-641201288/)   |
-|   ![AtillaPhoto](https://github.com/user-attachments/assets/be5be7ff-ec8a-471f-b79d-e4b16de740e1)   | Atilla      | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/atillacirak/)   |
+|   ![NisaNurPhoto](https://github.com/user-attachments/assets/7a5032ed-f463-4c71-8620-54efb6c19726)   | Nisa Nur Karaca     | Product Owner     | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/nisa-nur-karaca-8367562a1/)   | 
+|   ![ŞeymaPhoto](https://github.com/user-attachments/assets/42581366-eb8c-478e-946b-6a3127baca53)   | Şeyma Karataş     | Scrum Master     |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/%C5%9Feyma-karata%C5%9F-7a2885296/) |
+|   ![AnılHanPhoto](https://github.com/user-attachments/assets/32baec11-3eea-454a-87fc-70fb4add10db)   | Anıl Han Aydın      | Developer      |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/an%C4%B1l-han-ayd%C4%B1n-641201288/)   |
+|   ![AtillaPhoto](https://github.com/user-attachments/assets/be5be7ff-ec8a-471f-b79d-e4b16de740e1)   | Atilla Çırak      | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/atillacirak/)   |
 |   ![UmutcanPhoto](https://github.com/user-attachments/assets/8fd6759d-5f1b-4953-8678-2f9f0e928c1e)   | Umutcan Ekinci      | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/umutcanekinci/)    |
 
 ## Oyun İsmi
@@ -21,58 +21,64 @@
 **Broken Reflections**
 
 ## Oyun Logosu
-![GameLogo](https://github.com/user-attachments/assets/53581477-9d9f-449d-aa69-988cc1124655) ![TextLogo](https://github.com/user-attachments/assets/6c792bb1-3ff9-4cba-836c-e7faf64f1694) 
+![GameLogo](https://github.com/user-attachments/assets/53581477-9d9f-449d-aa69-988cc1124655) ![TextLogo](https://github.com/user-attachments/assets/c56ae8de-e50f-46d0-a3ec-ebb1271e6c74)
+
 
 ## Oyun Açıklaması
 
-- **Broken Reflections**, derin duygusal içeriğiyle öne çıkan, hikaye odaklı ve keşfetmeye dayalı bir Adventure/Puzzle oyunudur. Oyuncular, genç kız **Anna**'nın iç dünyasını derinlemesine keşfederken, onun zihnindeki mücadeleleri deneyimler. Bulmacaları çözer, gizemleri ortaya çıkarır ve **Anna**'nın büyüme ve içsel dönüşüm sürecinde ona rehberlik ederler. Oyunun dokusu ve atmosferi, oyuncuları duygusal olarak etkileyerek, benzersiz ve unutulmaz bir oyun deneyimi sunar.
+- **Broken Reflections**, duygusal anlatımı merkezine alan, hikâye tabanlı ve seçim odaklı bir keşif oyunudur. Oyuncular, komada olan genç bir kız olan Mira’nın bilinçaltına doğru sembolik ve atmosferik bir yolculuğa çıkar. Bu yolculuk boyunca Mira'nın geçmişinde bastırdığı travmalar, pişmanlıklar ve duygusal kırılma anılarıyla yüzleşilir.
+
+Oyun, her biri Mira’nın zihinsel dünyasını temsil eden bölümlerden oluşur. Her bölümde oyuncu, Mira’nın anılarına ait sembollerle karşılaşır ve aldığı kararlarla karakterin içsel dönüşümünü şekillendirir. Renkler, sesler ve ortam tasarımı; her temaya uygun bir duygusal atmosfer yaratır. Basit oynanış mekanikleriyle derin temaları birleştiren Broken Reflections, oyuncuyu kendi iç dünyasıyla da yüzleştirmeyi amaçlar.
+Verilen kararlar doğrultusunda Mira, kendini affetmeyi öğrenir ve hayata döner ya da geçmişin yüklerini kabullenerek sonsuz bir iç huzura ulaşır. Broken Reflections, yalnızca bir oyun değil; kabullenmenin, iyileşmenin ve yeniden doğuşun anlatıldığı duygusal bir deneyimdir.
 
 ## Oyun Hikayesi
 
--   6 yaşındaki **Anna**, doğuştan gelen duyusal eksikliklerle hayatını sürdürmektedir. Görme, işitme, dokunma, tat ve koku gibi temel duyularından yoksun olmanın getirdiği zorluklarla büyüyen **Anna**, çevresini algılamak ve anlamak için büyük bir çaba harcamaktadır. Ancak, bir gece uyuduğunda, beklenmedik bir şekilde kendini tamamen farklı, büyülü bir evrende bulur. Bu büyülü evrenin aslında bir rüya olduğunu ve her bir korkusunu yendiğinde duyularını geri kazandığını fark etmeye başlar. Zorlu kanyon, kutuplar, karanlık labirent ve perili ormanlardaki düşmanlar, **Anna**'nın en büyük korkularından oluşmaktadır. Bu yolculukta, edindiği yoldaşların yardımı, sanata ve müziğe olan bağlığı ve annesinin günlük sayfalarından öğrendiği bilgilerle cesaret bulan **Anna**, korkularını yenmesinin ve çeşitli bulmacaları çözmesinin sonunda tüm duyularını geri kazanır ve hem kendisi hem de annesinin geçmişi hakkında derin bir anlayışa ulaşır. **Anna**, artık sadece duyularını geri kazanmış bir çocuk değil, aynı zamanda içsel gücünü ve cesaretini keşfetmiş bir birey olarak uyanır.
+-   **Broken Reflections**, genç bir kız olan Mira’nın komaya girmesiyle başlayan bir bilinçaltı yolculuğunu konu alır. Mira, dış dünyada hayatta kalma mücadelesi verirken, zihninde geçmişte bastırdığı travmalarla ve pişmanlıklarla yüzleşmek zorundadır. Oyuncular, Mira’nın boynundaki gizemli bir kolye aracılığıyla onun zihinsel evrenine adım atar. Her bölüm, Mira’nın yaşadığı derin bir travmayı temsil eden sembolik bir dünyaya açılır.
+
+Oyuncunun bu dünyalarda yaptığı seçimler, Mira’nın kendini affetmesine, kabullenmesine ya da karanlıkta kaybolmasına neden olabilir. Suçluluk, öfke, yalnızlık gibi duyguların şekillendirdiği bu içsel yolculukta, oyuncular Mira’nın ruhsal dönüşümüne tanıklık eder. Oyunun sonunda yapılan seçimlere göre Mira ya gözlerini yeniden hayata açar ya da zihninde huzurlu bir sona ulaşır. Broken Reflections, içsel çatışmalarla yüzleşmenin, kabullenmenin ve yeniden doğmanın dokunaklı bir anlatımıdır.
 
 ## Oyun Özellikleri
 
-- 3D
-- Tek oyunculu
-- Macera/Puzzle
-- Derin hikaye örgüsü
-- Low-poly
-- Interaktif Görevler
+- 3D, Hikaye Tabanlı, Macera / Puzzle
+- Tek oyunculu, seçim tabanlı
+- Low-poly, stilize atmosfer
+- Derin ve katmanlı hikâye örgüsü
+- İnteraktif görevler ve sembolik bulmacalar
+- PC (öncelikli), ilerleyen süreçte mobil ve konsol desteği hedeflenmektedir
 
 ## Hedef Kitle
 
-- Bağımsız (Indie) Oyun Severler
-- Keşif ve Macera Severler
-- 13 ve Üzeri Yaşta Oyuncular
+- Bağımsız (Indie) oyun severler
+- Keşfetmeyi ve hikâye derinliği olan oyunları seven oyuncular
+- 13 yaş ve üzeri oyuncular
+- Duygusal anlatıya, atmosferik tasarıma ve karakter gelişimine önem veren oyuncu profili
 
 ## Pazarlama Planı
 
-- Ekip dinamiğinden ve ortaya çıkan üründen ötürü oyunumuzun derece alacağına ve gelecek vaadettiğine inanıyoruz. Bu nedenle oyunumuza reklam eklemek yerine bir Steam sayfası oluşturmayı hedefliyoruz.
-- Ürün değerlendirmesi sonrasında oyunumuzu geliştirmeye devam edip, güncel tutarak bir satış planı oluşturacağız.
-- Oyunumuzun başlangıç fiyatı 5-10$ aralığında belirlenmiştir.
-- Oyunumuzun severlerine yönelik özel merchandise (tişörtler, kupalar, posterler vb.) ürünleri de piyasaya sürülecektir. Bu, markamızın bilinirliğini artırırken, sadık müşterilerimize farklı kanallardan ulaşmamızı sağlayacaktır.
-
+- Broken Reflections, güçlü ekip dinamiği ve etkileyici hikâye anlatımıyla sadece bir proje değil, aynı zamanda geleceği olan bir bağımsız oyun markasıdır. Oyunumuzun duygusal derinliği ve sanatsal yönüyle dikkat çekeceğine inanıyoruz. Bu nedenle:
+- Ürün değerlendirmeleri doğrultusunda oyun düzenli olarak güncellenecek, yeni bölümler ve içeriklerle desteklenecektir.
+- Oyun, ilk etapta $7–9 fiyat aralığında satışa sunulacaktır.
+- Oyunun dünyasını yansıtan özel tişörtler, kupalar, posterler gibi ürünler hazırlanarak sadık oyunculara yönelik bir topluluk oluşturulacaktır. Bu adım, markanın tanınırlığını artırmanın yanı sıra, oyuncu ile geliştirici arasındaki bağı da güçlendirecektir.
+  
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVK7yGtNA=/)
+[Miro Backlog Board](https://miro.com/app/board/uXjVIgjyMHM=/)
 
 ---
 
 # Sprint 1
-
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilmektedir.
+- **Sprint Notları**: Projemiz kapsamında toplamda 300 puanlık ürün birikimi (Product Backlog) oluşturulmuştur. Bu puanlar, oyunun oynanabilir bir yapıya ulaşması ve sunum aşamasına gelmesi için gereken tüm temel görevleri kapsamaktadır. Süreci daha verimli yönetebilmek adına proje, her biri belirli görevleri kapsayan 3 Sprint’e bölünmüştür.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken toplam 300 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 100 ile başlaması gerektiği kararlaştırıldı.
+- **Puan tamamlama mantığı**: Sprint puanları, görevlerin kapsamı ve zorluk seviyesine göre dağıtılmıştır. Sprint 1’de temel altyapı (karakter kontrolleri, kolye mekaniği, seçim sistemi ve ilk bölüm ortamı) tamamlanması hedeflenmiştir.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz bir sonraki sprintlerin temelini atacak şekilde düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. Miro Board'da gözüken pembe item'lar _yazılım_, mor item'lar _ses_, açık yeşil item'lar _görsel efekt_, koyu yeşil item'lar _türü olmayan görevleri_ gösterirken, mavi item'lar _tasarım_ görevlerini temsil etmektedir. Sprint sonu günleri ekibin dinlenmesi amacıyla boş bırakılmıştır.
+- **Backlog düzeni ve Story seçimleri**: Miro Board'da gözüken lacivert item'lar kod, sarı item'lar ses, kırmızı item'lar görsel efekt, yeşil item'lar türü olmayan görevleri gösterirken, pembe item'lar tasarım görevlerini temsil etmektedir. Sprint sonu günleri ekibin dinlenmesi amacıyla boş bırakılmıştır.
 
-- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılması kararlaştırılmıştır. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız Imgur'da toplanmıştır.: [Sprint 1 - Daily Scrum Chats](https://imgur.com/a/daily-scrum-chats-1-VpkQl6x)
+- **Daily Scrum**: Daily Scrum toplantılarının WhatsApp üzerinden yapılması kararlaştırılmıştır.
 
-- **Sprint board update**: Sprint board screenshot: 
-![Backlog 1](https://github.com/user-attachments/assets/e9f43ef7-2d0b-472d-8211-f27f1a2e5eec) 
+- **Sprint board update**: Sprint board screenshot:
+![Backlog 1](https://github.com/user-attachments/assets/0a904258-5e54-4576-b465-d12455a4e6b7)
 
 <details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
   
@@ -84,93 +90,28 @@
 
   </details>
 
-- **Sprint Review**: 
-  - Bütün ekip projede hangi kısımların bittiğini ve bunun hakkındaki görüşlerini iletti. Oyunun güncel tasarımının ve gidişatının beğenildiği belirtildi ve devamı üzerine yeni fikirler ortaya atıldı. Sprint içerisinde tasarlanmış olan level tüm ekip tarafından oynandı, herhangi bir sorun ile karşılaşılmadı.
-  - Sprint Review katılımcıları: İsmail Dönmez, İncila Kırbaç, İbrahim Serhat Aktaş, İpek Nezihe Can, İrfan Şenatlı.
+- **Sprint İncelemesi**: 
+  - Sprint sürecinde tamamlanan tüm parçalar ekipçe değerlendirildi. Her ekip üyesi, kendi görev alanı doğrultusunda biten işlerin detaylarını diğer ekip üyeleriyle paylaştı.
 
-- **Sprint Retrospective:** 
-  - Ekip iki gruba bölündü, bir grup oyunun kalan 4 bölümü üzerinde çalışarak ilerlemeye devam edecek; diğer ekip ise oluşturulan bölümlerin eksiklikleri üzerinde çalışacak ve oyunu final aşamasına hazır hale getirecek.
-    - Grup 1: İsmail, İncila
-    - Grup 2: İbrahim, İpek, İrfan
-  - Toplantıların belirli bir zaman aralığıyla gerçekleştirilmesi kararlaştırıldı.
-  - Üretim aşamasında görev alan ekip üyelerine gelecek bölümlerde ihtiyaç duyulabilecek assetlerin üretimi için listeler hazırlandı
+- Yapılan geri bildirimler doğrultusunda:
+  - Oyunun güncel tasarımı ve hikâye ilerleyişi olumlu karşılandı.
+  - İlk bölümün oynanabilir demo versiyonu ekip tarafından test edildi.
+  - Oynanış esnasında herhangi bir teknik aksaklıkla karşılaşılmadı.
+  - Oyunun genel atmosferi, görsel dili ve seçim mekanikleri ekibin vizyonuna uygun bulundu.
+  - Projenin devamı için yaratıcı yeni fikirler ortaya atıldı ve oyunun kapsamının genişletilmesi önerildi.
+
+- **Sprint Retrospektifi:** 
+  - Sprint sonunda yapılan retrospektif toplantıda üretim süreci ve ekip içi iş bölümü değerlendirildi. Etkin ilerleme sağlamak amacıyla ekip, iki ayrı alt gruba ayrıldı:
+  - Grup 1 – Yeni Bölüm Geliştirme Ekibi
+    - Bu ekip, oyunun ikinci ve sonraki bölümlerinin yapısal ve görsel geliştirmesine odaklanacaktır.
+    - Üyeler: Şeyma Karataş, Nisa Nur Karaca
+  - Grup 2 – Eksiklerin Tamamlanması ve Final Hazırlığı Ekibi
+    - Bu ekip, ilk bölümdeki eksik görevlerin tamamlanması, ses ve efektlerin entegre edilmesi ve oyunun final kısmının tamamlanmasına yoğunlaşacaktır.
+    - Üyeler: Umutcan Ekinci, Anıl Han Aydın, Atilla Çırak
+  - Daily Scrum toplantılarının belirli zaman aralıkları ile düzenli gerçekleştirilmesine karar verilmiştir.
+  -  Tüm görevlerin, sorumlu kişiler tarafından daha şeffaf bir şekilde takip edilebilmesi için görev panosu güncellenmeye devam edilecektir.
+  -  Her ekip üyesi, üretim sürecinde ihtiyaç duyulabilecek varlıkları listeleyip, ileride kullanılacak materyallerin planlı şekilde üretilmesini sağlayacaktır.
 
 # Sprint 2
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilmektedir.
-
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
-
-- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken toplam 300 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ikinci sprintin 100 puandan oluşması gerektiği kararlaştırıldı.
-
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz oyuncunun ihtiyaç duyacağı mekanik ve içeriği besleyecek şekilde düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. Miro Board'da gözüken pembe item'lar _yazılım_, mor item'lar _ses_, açık yeşil item'lar _görsel efekt_, koyu yeşil item'lar _türü olmayan görevleri_ gösterirken, mavi item'lar _tasarım_ görevlerini temsil etmektedir. Sprint sonu günleri ekibin dinlenmesi amacıyla boş bırakılmıştır.
-
-- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılmasına devam edilmiştir. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız Imgur'da toplanmıştır.: [Sprint 2 - Daily Scrum Chats](https://imgur.com/a/jF4E9xp)
-
-- **Sprint board update**: Sprint board screenshot: 
-![Backlog 2](https://github.com/user-attachments/assets/693edf2a-fa8b-4126-8e44-a3ddaa37de6c)
-
-<details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
-  
-  ![Screenshot 1](https://github.com/user-attachments/assets/b225057b-e3ab-4076-81e8-a62b029f1e4d)
-  ![Screenshot 2](https://github.com/user-attachments/assets/a716a14c-23b3-4be6-9625-5e6b50e91d90) 
-  ![Screenshot 3](https://github.com/user-attachments/assets/e2bcbb7e-accf-417e-8013-0cde77fd082c)
-  ![Screenshot 4](https://github.com/user-attachments/assets/ea04e39e-42ab-4689-96a6-b1836415e05d)
-  ![Screenshot 5](https://github.com/user-attachments/assets/ffe3c265-d758-491f-a9b4-db3bc7c00465)
-
-</details>
-
-- **Sprint Review**: 
-  - Ekip, görevlerinin sağladığı gelişmeleri açıkladı. Güncel performansın arttırılması gerektiğinde anlaşıldı. Sprint içerisinde tasarlanmış olan leveller tüm ekip tarafından oynandı, herhangi bir sorun ile karşılaşılmadı, geliştirilebilecek noktalar tartışıldı.
-  - Sprint Review katılımcıları: İsmail Dönmez, İncila Kırbaç, İbrahim Serhat Aktaş, İpek Nezihe Can, İrfan Şenatlı.
-
-- **Sprint Retrospective:** 
-  - Ekip, bölünmüş olduğu gruplara devam edecek. İlk grup bölümleri hazırlayacak, ikinci grup ise bölümleri final product hale getirecek şekilde geliştirecek.
-    - Grup 1: İsmail, İncila
-    - Grup 2: İbrahim, İpek, İrfan
-  - Grup 2'nin grup içi toplantıları arttırmasına karar verildi.
-  - Level 4 ve 5'te kullanılacak puzzleların geliştirilmesi kararlaştırıldı.
-
-
 # Sprint 3
-
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilmektedir.
-
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
-
-- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken toplam 300 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde üçüncü sprintin 100 puandan oluşması gerektiği kararlaştırıldı.
-
-- **Backlog düzeni ve Story seçimleri**: Bu backlog'umuz oyunu final product haline getirmeyi temel almıştır. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. Miro Board'da gözüken pembe item'lar _yazılım_, mor item'lar _ses_, açık yeşil item'lar _görsel efekt_, koyu yeşil item'lar _türü olmayan görevleri_ gösterirken, mavi item'lar _tasarım_ görevlerini temsil etmektedir.
-
-- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılmasına devam edilmiştir. Daily Scrum toplantılarımız ve günlük Whatsapp konuşmalarımız Imgur'da toplanmıştır.: [Sprint 3 - Daily Scrum Chats](https://imgur.com/a/DIUzktA)
-
-- **Sprint board update**: Sprint board screenshot: 
-![Backlog 3](https://github.com/user-attachments/assets/3f2eb3ac-c640-41ff-b8b8-e1d706340979)
-
-<details> <summary><h3>Ürün Durumu: Ekran Görüntüleri</h3></summary>
-  
-  ![Screenshot 1](https://github.com/user-attachments/assets/ddfdaa57-cf4d-4dba-961a-1b75ea107f14)
-  ![Screenshot 2](https://github.com/user-attachments/assets/f8e41da4-d95a-4710-a813-a270c2267589) 
-  ![Screenshot 3](https://github.com/user-attachments/assets/1bb0b4a5-171c-42a6-83e2-aff324f617e3)
-  ![Screenshot 4](https://github.com/user-attachments/assets/eec03244-2746-48b5-af0d-a449a8130e1b)
-  ![Screenshot 5](https://github.com/user-attachments/assets/4c8be489-482f-4ed6-be55-70fb3396a07f)
-
-</details>
-
-  Daha fazla görsel için: [Oyun İçi Görseller](https://imgur.com/a/Ln4C4Jv)
-
-- **Sprint Review**: 
-  - Scrum boyunca eksiksiz çalışıldığı için ekip üyeleri birbirini tebrik etti.
-  - 1 karakter tasarımı, 9 adet map tasarımı, birçok farklı mekanik, karakter ve animasyonlar yapılmıştır.
-  - Tamamlanması gereken 300 puanlık backlog puanı tamamlanmıştır.
-  - Sprint Review katılımcıları: İsmail Dönmez, İncila Kırbaç, İbrahim Serhat Aktaş, İpek Nezihe Can.
-
-- **Sprint Retrospective:** 
- - ʚɞ ʚɞ ʚɞ ʚɞ
----
-
- **Jüri Notları**:
-- Ekibimizde herhangi bir designer/artist bulunmadığı için 3D modellerde ücretsiz asset'lerden faydalandık. Kullanılan assetlere ise [buradan](https://drive.google.com/file/d/1ZXC6znB-ZxTyP2zP8O3_v-5lX6S98q4M/view?usp=sharing) ulaşılabilir.
-
-
----
