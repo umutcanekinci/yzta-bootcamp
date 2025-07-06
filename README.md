@@ -6,7 +6,7 @@
 
 ![TeamLogo](https://github.com/user-attachments/assets/567f3ebc-8010-4c28-b864-e908e9fc529a)
 
-## Takım Elemanları
+## Ekibimiz
 
 |    | <div align="center">Name</div>   | <div align="center">Title</div>  | <div align="center">Socials</div>     |
 | :-----------: | :---------- | :---------- | :----------: |
