@@ -1,32 +1,31 @@
 ## **Takım İsmi**
 
-**Imagine 4** 
+**The Apex** 
 
 ## **Takım Logosu**
 
-![Logo](https://github.com/user-attachments/assets/d3656d39-534d-46da-90d1-a48268980995)
+![TeamLogo](https://github.com/user-attachments/assets/567f3ebc-8010-4c28-b864-e908e9fc529a)
 
 ## Takım Elemanları
 
 |    | <div align="center">Name</div>   | <div align="center">Title</div>  | <div align="center">Socials</div>     |
 | :-----------: | :---------- | :---------- | :----------: |
-|  ![NisaPhoto](https://github.com/user-attachments/assets/904d462c-f496-435e-99f4-1e5ddbdbe1c8)  | Nisa Nur     | Product Owner     | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ismail-dz/)   | 
-|  ![ŞeymaPhoto](https://github.com/user-attachments/assets/dff428d7-8638-405f-b3a5-f820260f2572)    | Şeyma KARATAŞ     | Scrum Master     |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/%C5%9Feyma-karata%C5%9F-7a2885296/) |
-|  ![AnılPhoto](https://github.com/user-attachments/assets/4f717eb9-db3a-453f-a703-5f6afdd70f09)  | Anıl Han      | Developer      |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/an%C4%B1l-han-ayd%C4%B1n-641201288/)   |
-|   ![AtillaPhoto](https://github.com/user-attachments/assets/563720b1-1bb6-445c-946b-ebcf1ae3d873)   | Atilla      | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/ipek-nezihe-can/)    |
-|   ![AtillaPhoto](https://github.com/user-attachments/assets/563720b1-1bb6-445c-946b-ebcf1ae3d873)   | Umutcan Ekinci      | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/umutcanekinci/)    |
+|   ![NisaNurPhoto](https://github.com/user-attachments/assets/7a5032ed-f463-4c71-8620-54efb6c19726)   | Nisa Nur     | Product Owner     | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/nisa-nur-karaca-8367562a1/)   | 
+|   ![ŞeymaPhoto](https://github.com/user-attachments/assets/42581366-eb8c-478e-946b-6a3127baca53)   | Şeyma KARATAŞ     | Scrum Master     |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/%C5%9Feyma-karata%C5%9F-7a2885296/) |
+|   ![AnılHanPhoto](https://github.com/user-attachments/assets/32baec11-3eea-454a-87fc-70fb4add10db)   | Anıl Han      | Developer      |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/an%C4%B1l-han-ayd%C4%B1n-641201288/)   |
+|   ![AtillaPhoto](https://github.com/user-attachments/assets/be5be7ff-ec8a-471f-b79d-e4b16de740e1)   | Atilla      | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/atillacirak/)   |
+|   ![UmutcanPhoto](https://github.com/user-attachments/assets/8fd6759d-5f1b-4953-8678-2f9f0e928c1e)   | Umutcan Ekinci      | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/umutcanekinci/)    |
 
 ## Oyun İsmi
 
-**The Ghost of Anna**
+**Broken Reflections**
 
 ## Oyun Logosu
-
-![OyunLogo](https://github.com/user-attachments/assets/7ffdf8ab-bbc8-482d-8445-cc782f3ff38a) ![TextLogo](https://github.com/user-attachments/assets/6c792bb1-3ff9-4cba-836c-e7faf64f1694) 
+![GameLogo](https://github.com/user-attachments/assets/53581477-9d9f-449d-aa69-988cc1124655) ![TextLogo](https://github.com/user-attachments/assets/6c792bb1-3ff9-4cba-836c-e7faf64f1694) 
 
 ## Oyun Açıklaması
 
-- **The Ghost of Anna**, derin duygusal içeriğiyle öne çıkan, hikaye odaklı ve keşfetmeye dayalı bir Adventure/Puzzle oyunudur. Oyuncular, genç kız **Anna**'nın iç dünyasını derinlemesine keşfederken, onun zihnindeki mücadeleleri deneyimler. Bulmacaları çözer, gizemleri ortaya çıkarır ve **Anna**'nın büyüme ve içsel dönüşüm sürecinde ona rehberlik ederler. Oyunun dokusu ve atmosferi, oyuncuları duygusal olarak etkileyerek, benzersiz ve unutulmaz bir oyun deneyimi sunar.
+- **Broken Reflections**, derin duygusal içeriğiyle öne çıkan, hikaye odaklı ve keşfetmeye dayalı bir Adventure/Puzzle oyunudur. Oyuncular, genç kız **Anna**'nın iç dünyasını derinlemesine keşfederken, onun zihnindeki mücadeleleri deneyimler. Bulmacaları çözer, gizemleri ortaya çıkarır ve **Anna**'nın büyüme ve içsel dönüşüm sürecinde ona rehberlik ederler. Oyunun dokusu ve atmosferi, oyuncuları duygusal olarak etkileyerek, benzersiz ve unutulmaz bir oyun deneyimi sunar.
 
 ## Oyun Hikayesi
 
